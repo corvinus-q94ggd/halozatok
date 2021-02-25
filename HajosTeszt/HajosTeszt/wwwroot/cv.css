@@ -1,0 +1,58 @@
+﻿h1, h4 {
+    border: 2px solid red;
+    width: 200px;
+    text-align: center;
+    border-radius: 35px;
+}
+
+#eloszo {
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+
+#orak {
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+    background-color: darkblue;
+    color: orange;
+    padding: 8px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+    a:hover {
+        background-color: orange;
+        color: darkblue;
+    }
+
+span {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#felsorol {
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    background-color: lightblue;
+}
+
+.ismer {
+    background-color: orange;
+    border-radius: 25px;
+    color: darkblue;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
